@@ -24,6 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
           Added some more details here for testing
+          Hey super update
         </p>
       </div>
       <p className="read-the-docs">
